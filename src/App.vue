@@ -78,10 +78,10 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  /* height: 100vh;
-  width: 100vw; */
-  height: 844px;
-  width: 390px;
+  height: 100vh;
+  width: 100vw;
+  /* height: 844px;
+  width: 390px; */
 }
 
 .inner {

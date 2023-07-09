@@ -78,7 +78,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  height: 80vh;
+  height: 90vh;
   width: 100vw;
   /* height: 844px;
   width: 390px; */

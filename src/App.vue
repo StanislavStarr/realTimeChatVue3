@@ -81,10 +81,8 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  height: 90vh;
+  height: 100vh;
   width: 100vw;
-  /* height: 844px;
-  width: 390px; */
 }
 
 .inner {
@@ -96,13 +94,12 @@ body {
 }
 
 .messages {
+  height: 90vh;
   width: 100%;
   overflow-y: scroll;
 }
 
 .message {
-  /* display: flex; */
-  /* justify-content: space-between; */
   margin: 0 5px 0 5px;
 }
 
@@ -135,7 +132,8 @@ body {
 }
 
 form {
-  position: relative;
+  position: absolute;
+  bottom: 2vh;
   display: flex;
   width: 100%;
   margin-bottom: 20px;

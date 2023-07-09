@@ -75,6 +75,9 @@ body {
   background-image: url(../public/fon.jpg);
   background-size: cover;
   display: flex;
+  position: fixed;
+  left: 0;
+  top: 0;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;

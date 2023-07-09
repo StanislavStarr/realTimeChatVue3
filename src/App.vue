@@ -132,7 +132,7 @@ body {
 }
 
 form {
-  position: absolute;
+  position: fixed;
   bottom: 2vh;
   display: flex;
   width: 100%;
